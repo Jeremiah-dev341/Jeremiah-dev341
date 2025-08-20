@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeremiah Kinuthia <!-- Profile Views -->
-<a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
-  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=0891b2&label=Profile+Views" />
-</a>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeremiah Kinuthia 
 ==========================================================================================================
 Full Stack Developer| Designer
 ------------------------------
@@ -55,9 +52,13 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 
 ### Badges
 
--------------------------
+
 
 <b>My GitHub Stats</b>
+<!-- Profile Views -->
+<a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
+  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=0891b2&label=Profile+Views" />
+</a>
 
 <a href="http://www.github.com/Jeremiah-dev341"><img src="https://github-readme-stats.vercel.app/api?username=Jeremiah-dev341&show_icons=true&hide=&count_private=true&title_color=333333&text_color=000000&icon_color=ffffff&bg_color=FFA500&hide_border=true&show_icons=true" alt="Jeremiah-dev341's GitHub stats" /></a>
 
