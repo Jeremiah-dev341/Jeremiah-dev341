@@ -25,6 +25,7 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 <p align="left"> <a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jeremiah-dev341?logo=github&style=for-the-badge&color=FFA500&labelColor=000000" /></a>
+
 ### Badges
 
 -------------------------
