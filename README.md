@@ -58,8 +58,12 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 
 <!-- Profile Views -->
 <a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
-  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=FFD700&label=Profile+Views" alt="Profile Views Badge" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&label=Profile+Views&labelColor=FFD700&color=1E90FF" 
+    alt="Profile Views Badge" 
+    style="transform: scale(1.2); margin: 5px;" />
 </a>
+
 
 
 
