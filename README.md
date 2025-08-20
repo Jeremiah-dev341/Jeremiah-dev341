@@ -8,18 +8,13 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 ------------------------------
 
 🙏 Talking about Personal Stuff:
-
-    * 🌍  I'm based in Nairobi, Kenya
-    
-    * ✉️  You can contact me at [jeremiahkinuthia341@gmail.com](mailto:jeremiahkinuthia341@gmail.com)
-    
-    * 🧠  I'm currently learning HTML, CSS, Javascript, React, Python.
-    
-    * 👥  I'm looking to collaborate on Beginner-friendly projects that will help me grow.
-    
-    * 💬  Ask me about anything, will be glad to help
-    
-    * 😄 Pronouns: He/Him
+* 🌍  I'm based in Nairobi, Kenya
+* ✉️  You can contact me at [jeremiahkinuthia341@gmail.com](mailto:jeremiahkinuthia341@gmail.com)
+* 🧠  I'm currently learning HTML, CSS, Javascript, React
+* 👥  I'm looking to collaborate on Beginner-friendly projects that will help me grow.
+* 💬  Ask me about I am a Chelsea Fan- Tell everyone
+* 😄 Pronouns: He/Him
+  
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
