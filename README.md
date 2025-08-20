@@ -44,10 +44,11 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
   </a>
 </p>
 
-<!-- GitHub followers badge -->
+<!-- Profile Views -->
 <a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Jeremiah-dev341?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&cacheSeconds=60" />
+  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=0891b2&label=Profile+Views" />
 </a>
+
 
 
 -------------------------
