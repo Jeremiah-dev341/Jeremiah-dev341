@@ -12,7 +12,7 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 * ✉️  You can contact me at [jeremiahkinuthia341@gmail.com](mailto:jeremiahkinuthia341@gmail.com)
 * 🧠  I'm currently learning HTML, CSS, Javascript, React
 * 👥  I'm looking to collaborate on Beginner-friendly projects that will help me grow.
-* 💬  Ask me about I am a Chelsea Fan- Tell everyone
+* 💬  Ask me about anything, will be glad to help.
 * 😄 Pronouns: He/Him
   
 
@@ -46,7 +46,7 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 
 <!-- GitHub followers badge -->
 <a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Jeremiah-dev341?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/Jeremiah-dev341?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&cacheSeconds=60" />
 </a>
 
 
