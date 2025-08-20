@@ -5,7 +5,9 @@ Full Stack Developer| Designer
 ------------------------------
 
 I am an aspiring Full Stack Developer who is passionate about coding, learning and solving real-world problems through coding👨🏻‍💻. I am currently learning HTML, CSS, Javascript, React and Python. My goal is to become a skilled Full Stack developer, contribute to open-source, and build impactful projects. I am interested in future-proof technologies. I am open to beginner-friendly projects, those that help me grow as a developer. Apart from coding, I love exploring new ideas, learning new skills, and creating meaningful experiences.
+
 ------------------------------
+
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [jeremiahkinuthia341@gmail.com](mailto:jeremiahkinuthia341@gmail.com)
 * 🧠  I'm currently learning HTML, CSS, Javascript, React, Python.
