@@ -8,11 +8,17 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 ------------------------------
 
 🙏 Talking about Personal Stuff:
+
     * 🌍  I'm based in Nairobi, Kenya
+    
     * ✉️  You can contact me at [jeremiahkinuthia341@gmail.com](mailto:jeremiahkinuthia341@gmail.com)
+    
     * 🧠  I'm currently learning HTML, CSS, Javascript, React, Python.
+    
     * 👥  I'm looking to collaborate on Beginner-friendly projects that will help me grow.
+    
     * 💬  Ask me about anything, will be glad to help
+    
     * 😄 Pronouns: He/Him
 
 <p align="left">
