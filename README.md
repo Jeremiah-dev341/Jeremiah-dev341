@@ -1,4 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeremiah Kinuthia
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeremiah Kinuthia <!-- Profile Views -->
+<a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
+  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=0891b2&label=Profile+Views" />
+</a>
 ==========================================================================================================
 Full Stack Developer| Designer
 ------------------------------
@@ -44,10 +47,7 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
   </a>
 </p>
 
-<!-- Profile Views -->
-<a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
-  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=0891b2&label=Profile+Views" />
-</a>
+
 
 
 
