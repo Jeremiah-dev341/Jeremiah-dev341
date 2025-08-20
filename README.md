@@ -58,8 +58,9 @@ I am an aspiring Full Stack Developer who is passionate about coding, learning a
 
 <!-- Profile Views -->
 <a href="https://www.github.com/Jeremiah-dev341" target="_blank" rel="noreferrer">
-  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jeremiah-dev341&style=for-the-badge&color=FFD700&label=Profile+Views" alt="Profile Views Badge" />
 </a>
+
 
 
 <a href="http://www.github.com/Jeremiah-dev341"><img src="https://github-readme-stats.vercel.app/api?username=Jeremiah-dev341&show_icons=true&hide=&count_private=true&title_color=333333&text_color=000000&icon_color=ffffff&bg_color=FFA500&hide_border=true&show_icons=true" alt="Jeremiah-dev341's GitHub stats" /></a>
