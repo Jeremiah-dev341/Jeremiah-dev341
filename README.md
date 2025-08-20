@@ -26,11 +26,11 @@ src="https://img.shields.io/github/followers/Jeremiah-dev341?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jeremiah-dev341"><img src="https://github-readme-stats.vercel.app/api?username=Jeremiah-dev341&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jeremiah-dev341's GitHub stats" /></a>
+<a href="http://www.github.com/Jeremiah-dev341"><img src="https://github-readme-stats.vercel.app/api?username=Jeremiah-dev341&show_icons=true&hide=&count_private=true&title_color=333333&text_color=000000&icon_color=ff8c00&bg_color=ffe4b5&hide_border=true&show_icons=true" alt="Jeremiah-dev341's GitHub stats" /></a>
 
-<a href="http://www.github.com/Jeremiah-dev341"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-dev341&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Jeremiah-dev341"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-dev341&stroke=000000&background=ffe4b5&ring=ff8c00&fire=ff8c00&currStreakNum=000000&currStreakLabel=333333&sideNums=000000&sideLabels=333333&dates=333333&hide_border=true" /></a>
 
-<a href="https://github.com/Jeremiah-dev341" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-dev341&langs_count=10&title_color=333333&text_color=000000&icon_color=daa520&bg_color=fffacd&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Jeremiah-dev341" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-dev341&langs_count=10&title_color=333333&text_color=000000&icon_color=ff8c00&bg_color=ffe4b5&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
